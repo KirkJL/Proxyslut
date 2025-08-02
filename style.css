@@ -130,3 +130,13 @@ iframe {
   font-size: 14px;
   word-break: break-all;
 }
+a {
+  color: #ff4d88;        /* Cherry pink */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #ff6699;        /* Lighter cherry pink on hover */
+  text-decoration: underline;
+}
